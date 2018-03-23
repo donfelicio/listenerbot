@@ -1,6 +1,9 @@
 # listenerbot
 This is a Telegram bot webhook, created by Felix Lepoutre. This webhook only reads what a specific user in a group says, and then reposts that into a telegram channel.
 
+Usage is free. If you need help with installation please contact me. Also, i'd be very happy to just hear from you when you use the bot! Telegram: @felixlepoutre
+ETH tipjar: 0x40F56AF593C74C35aAa8df245191bE8Fdb0c9FdB
+
 Instructions
 1. Create a bots with @botfather in Telegram. This will both listen and post. The bot should be allowed groups and disable group privacy so he listens to all messages. 
 2. Add the bot to the group the user you want to filter out is in. 

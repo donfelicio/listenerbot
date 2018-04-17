@@ -1,5 +1,6 @@
 # listenerbot
 This is a Telegram bot webhook, created by Felix Lepoutre. This webhook only reads what a specific user in a group says, and then reposts that into a telegram channel.
+The listenerbot-multi is setup with an array of allowed people, optionally filtered by specific keywords.  
 
 Usage is free. If you need help with installation please contact me. Also, i'd be very happy to just hear from you when you use the bot! Telegram: @felixlepoutre
 ETH tipjar: 0x40F56AF593C74C35aAa8df245191bE8Fdb0c9FdB
